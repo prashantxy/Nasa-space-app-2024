@@ -1,0 +1,11 @@
+canvas{
+  height: 90vh !important;
+  background-image: url('../public/stars.jpg');
+  background-size:cover;
+}
+
+body{
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
