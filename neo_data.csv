@@ -1,0 +1,11 @@
+Name,Estimated Diameter (meters),Miss Distance (km),Velocity (km/h),Potential Hazard
+Apophis,270.0,0.0,30000,True
+Bennu,160.0,0.0,86000,True
+2020 JG,18.0,0.001,20000,False
+2020 CD3,1.8,0.0,18000,False
+2010 RF12,7.6,0.002,5000,False
+2015 TC25,8.1,0.01,8000,False
+2018 VP1,1.9,0.03,25000,False
+2023 BU,2.6,0.004,18000,False
+2023 YZ,1.2,0.001,22000,False
+2021 TL4,6.1,0.005,7000,False
