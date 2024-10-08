@@ -65,14 +65,6 @@ To set up the project locally, follow these steps:
     python game.py
     ```
 
-## Usage
-
-Once the project is set up and running, you can access the web app by navigating to `http://localhost:3000` in your web browser. From there, you can explore the educational games, learn from the ML models, and participate in the blockchain reward system.
-
-## Contributing
-
-We welcome contributions to this project! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
