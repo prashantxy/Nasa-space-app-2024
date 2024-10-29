@@ -14,6 +14,7 @@ Welcome to our NASA Space Apps Challenge project! This repository contains the c
 - [License](#license)
 
 ## Project Overview
+Figma design :- https://www.figma.com/proto/d9dYkDyreLiS1Vibaa67Ok/Future-Engineers---Comsci-Technologies-Figma-Public-(Community)?node-id=2002-3&node-type=frame&t=fz0GsPgEENUGNlv6-0&scaling=min-zoom&content-scaling=fixed&page-id=2%3A351&starting-point-node-id=2002%3A3
 
 Our project is designed for the NASA Space Apps Challenge. We aim to inspire and educate users about the wonders of space through an engaging web app that combines technology and entertainment. Key components include:
 
