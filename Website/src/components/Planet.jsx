@@ -8,7 +8,7 @@ const planets = [
     mass: "3.285 × 10^23 kg",
     yearLength: "88 days",
     temperature: "-173 to 427°C",
-    image: "../public/mercury.png"
+    image: "/mercury.png"
   },
   {
     name: "Venus",
@@ -28,7 +28,7 @@ const planets = [
     mass: "5.972 × 10^24 kg",
     yearLength: "365.25 days",
     temperature: "-88 to 58°C",
-    image: "../public/earth.png"
+    image: "/earth.png"
   },
   {
     name: "Mars",
@@ -38,7 +38,7 @@ const planets = [
     mass: "6.39 × 10^23 kg",
     yearLength: "687 days",
     temperature: "-87 to -5°C",
-    image: "../public/mars.png"
+    image: "/mars.png"
   },
   {
     name: "Jupiter",
@@ -48,7 +48,7 @@ const planets = [
     mass: "1.898 × 10^27 kg",
     yearLength: "12 years",
     temperature: "-108°C",
-    image: "../public/jupiter.png"
+    image: "/jupiter.png"
   },
   {
     name: "Saturn",
@@ -58,7 +58,7 @@ const planets = [
     mass: "5.683 × 10^26 kg",
     yearLength: "29 years",
     temperature: "-139°C",
-    image: "../public/saturn.png"
+    image: "/saturn.png"
   },
   {
     name: "Uranus",
@@ -68,7 +68,7 @@ const planets = [
     mass: "8.681 × 10^25 kg",
     yearLength: "84 years",
     temperature: "-195°C",
-   image: "../public/uranus.png"
+   image: "/uranus.png"
   },
   {
     name: "Neptune",
@@ -78,7 +78,7 @@ const planets = [
     mass: "1.024 × 10^26 kg",
     yearLength: "165 years",
     temperature: "-200°C",
-    image: "../public/neptune.png"
+    image: "/neptune.png"
   }
 ]
 
