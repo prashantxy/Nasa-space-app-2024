@@ -18,7 +18,7 @@ const planets = [
     mass: "4.867 × 10^24 kg",
     yearLength: "225 days",
     temperature: "462°C",
-    image: "../public/venus.png"
+    image: "/venus.png"
   },
   {
     name: "Earth",
