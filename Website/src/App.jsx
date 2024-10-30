@@ -4,7 +4,8 @@ import { Canvas } from '@react-three/fiber'
 import SolarSystem from '../public/SolarSystem'
 import { Environment, OrbitControls } from '@react-three/drei'
 import Planet from './components/Planet'
-import Models from './components/models'
+import Models from "./components/Models";
+
 
 function App() {
   const [count, setCount] = useState(0)
