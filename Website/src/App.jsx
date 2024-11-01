@@ -4,6 +4,9 @@ import { Canvas } from '@react-three/fiber'
 import SolarSystem from '../public/SolarSystem'
 import { Environment, OrbitControls } from '@react-three/drei'
 import Planet from './components/Planet'
+import Models from "./components/Models";
+import EarthModel from './components/EarthModel'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -86,7 +89,9 @@ function App() {
         </Canvas> */}
 
         {/* Insert the Planet component here */}
-        <div className="mt-12">
+        <div className="mt-6">
+          <Models/>
+          <EarthModel/>
           <Planet /> {/* Display the planet information */}
         </div>
       </div>
